@@ -10,6 +10,9 @@
     'depends': [
         'stock',
     ],
+    'images': [
+        'static/description/banner.jpg',
+    ],
     'data': [
         'views/stock_warehouse.xml'
     ],
