@@ -1,0 +1,5 @@
+"id","name","model_id:id","group_id:id","perm_read","perm_write","perm_create","perm_unlink"
+"access_res_partner_canton_internal_all","access_res_partner_canton_internal_all","model_res_partner_canton","",0,0,0,0
+"access_res_partner_parroquia_internal_all","access_res_partner_canton_internal_all","model_res_partner_parroquia","",0,0,0,0
+"access_res_partner_canton_internal_user","access_res_partner_canton_internal_user","model_res_partner_canton","base.group_user",1,0,0,0
+"access_res_partner_parroquia_internal_user","access_res_partner_canton_internal_user","model_res_partner_parroquia","base.group_user",1,0,0,0
