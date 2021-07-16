@@ -70,6 +70,7 @@
                             self.odoo.session_info.user_context.coordinates=coordinates;
                         }
                      </script>
+
                     </xpath>
                 </data>
             </field>
